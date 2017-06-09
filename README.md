@@ -1,4 +1,3 @@
-[![Join the chat at https://gitter.im/Soundnode/soundnode-app](https://badges.gitter.im/Soundnode/soundnode-app.svg)](https://gitter.im/Soundnode/soundnode-app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Soundnode App
 ============
@@ -32,15 +31,11 @@ And much more!
 
 First, building, testing, and reporting bugs is highly appreciated. Please include console's output and steps to reproduce the problem in your bug report if possible.
 
-If you want to develop, you can look at the issues, especially the bugs and then fix them.
-Here's a [list of issues](https://github.com/Soundnode/soundnode-app/issues?state=open).
+
 
 Please follow the [contribution guidelines](https://github.com/Soundnode/soundnode-app/blob/master/CONTRIBUTING.md).
 
 ## Development
-
-See the [Development page](https://github.com/Soundnode/soundnode-app/wiki/Development) for a complete guide on how to build
-the app locally on your computer.
 
 Check out [Electron documentation](https://electron.atom.io/docs/)
 
@@ -52,12 +47,7 @@ Check out [Electron documentation](https://electron.atom.io/docs/)
 
 ## Author
 
-- [Michael Lancaster](https://github.com/weblancaster)
+- [Crazy Dev](https://github.com/crazydev71)
 
-## Contributors
 
-Thanks to all [contributors](https://github.com/Soundnode/soundnode-app/graphs/contributors) that are helping or helped making Soundnode better.
 
-## License
-
-GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 [license](https://github.com/Soundnode/soundnode-app/blob/master/LICENSE.md).
